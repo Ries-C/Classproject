@@ -1,0 +1,42 @@
+  
+	<!DOCTYPE html>
+	<html> 
+	  <head>
+	     <meta charset="utf-8"> 
+	     <title>Gaming</title>  
+		  <style>
+	    body { background-color: #A9A9A9; margin: 0 15%; font-family: arial; }
+	    h1 { text-align: center; font-family: sylfaen; font-size: 70px; font-weight: Heavy; text-transform: uppercase; }
+	    h2 { text-align: center; font-family: sylfaen; font-size: 20px; font-weight: normal; text-transform: Capitalize; }
+	    h3 { text-align: center; font-family: sylfaen; font-weight: normal; text-transform: uppercase; border-bottom: 1px solid #00BFFF; margin-top 30px;}
+	       .topnav { background-color: #2F4F4F; }
+		a:link { color: #708099; }
+		a:visited { color: #696969; }
+		a:hover { color: #7B68EE; }
+	        div.a {text-indent: 50px; margin-right: 300px; }
+	  </style>
+	  </head>
+	  </div>
+	     <body> 
+	        <h1> Gaming </h1>
+          <h4> <div class="topnav"; div style="text-align: center"; >
+	     <a class="active">
+	     <a href="#Index">Home</a>
+	     <a href="#brewing">Brewing</a>
+	     <a href="#movies">Movies</a>
+		</h4>
+		  <br>
+		  <br>
+		  <br>
+        <h3> Table Top Gaming </h3>
+		<p style=  margin: 100%; text-align: left; font-family: arial; font-size: 20px;> 
+		<div class="a">
+		    So I am <strong> HUGE </strong> fan of table top gaming. I have recently taken up being a game master, or the guy that hosts the events and presents the stories.
+        It's been tough; but I have found a couple of sites, and apps that might could help up and coming game masters.   
+	  </p>
+      <br>
+        <h3> Video Games </h3>
+    <p>
+          
+  </body>
+	</html>
